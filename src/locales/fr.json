@@ -1,0 +1,37 @@
+{
+  "home_page": {
+    "app_title": "Spotify",
+    "drawer": {
+      "drawer_title": "Coding challenge",
+      "drawer_subtitle": "Crée par Alexis TROUSSET"
+    },
+    "nav_items": {
+      "search": "Recherche",
+      "library": "Ma bibliothèque"
+    },
+    "labels": {
+      "search": "Recherche",
+      "type_tag": "Entrez le tag ici"
+    },
+    "actions": {
+      "add_to_library": "Ajouter à la bibliothèque",
+      "add": "Ajouter des albums",
+      "annotate": "Annoter",
+      "validate": "Valider",
+      "cancel": "Annuler"
+    },
+    "annotate": {
+      "title": "Tagger un album"
+    }
+  },
+  "errors": {
+    "add_album": {
+      "already_in_library": "L'album est déjà dans la bibliothèque"
+    }
+  },
+  "messages": {
+    "add_album_to_library": {
+      "success": "Album ajouté à votre bibliothèque"
+    }
+  }
+}
